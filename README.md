@@ -27,3 +27,10 @@
     <a href="https://www.linkedin.com/in/gilberto-alves-3690a5121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
+  ##
+  
+  ## Sobre mim
+  
+  #### Tenho 28 anos, estudante de engenharia mecânica pelo IF Fluminense, e instrutor de inglês desde 2013. Desde criança sempre gostei de tecnologia e resolução de desafios, mas foi só após a pandemia que decidi transicionar de carreira. Ao final de 2021 me joguei de cabeça nos estudos das tecnologias da stack JavaScript e desde então venho me empenhando em treinar, criar e resolver problemas através dos códigos. 
+  #### Estou em busca da minha primeira vaga como Desenvolvedor Frontend JR ou estágio como desenvolvedor. 
+  #### Fiquem à vontado para visitar explorar os repositórios bem como sugerir quaisquer mudanças que vão melhorar os códigos. 
