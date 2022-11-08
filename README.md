@@ -1,5 +1,5 @@
 ## Olá, sou Gilberto Alves, estou em transição de carreira. 💻
-### Welcome to my place. 🏠
+### Here you can find some of the projects i'm engaged in. 🏠
 
 
 
