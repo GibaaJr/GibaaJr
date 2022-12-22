@@ -1,5 +1,6 @@
-## Olá, sou Gilberto Alves, estou em transição de carreira. 💻
-### Here you can find some of the projects i'm engaged in. 🏠
+## Olá, sou Gilberto Alves, seja bem vindo ao meu Github. 💻
+###  ⦿ Criando soluções criativas através da Programação. 🚀
+###  ⦿ Gerando resultados reais através da tecnologia. 💻📈
 
 
 
