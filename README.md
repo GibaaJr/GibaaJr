@@ -1,6 +1,6 @@
 ## Olá, sou Gilberto Alves, seja bem vindo ao meu Github. 💻
-###  ⦿ Criando soluções criativas através da Programação. 🚀
-###  ⦿ Gerando resultados reais através da tecnologia. 💻📈
+###  ◦ Criando soluções criativas através da Programação. 🚀
+###  ◦ Gerando resultados reais através da tecnologia. 💻📈
 
 
 
